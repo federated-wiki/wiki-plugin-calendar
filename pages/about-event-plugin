@@ -1,0 +1,37 @@
+{
+  "title": "About Event Plugin",
+  "story": [
+  {
+    "type": "paragraph",
+    "id": "d20b4474b45a979d",
+    "text": "Here we describe the purpose of the plugin and include a sample."
+  },
+  {
+    "type": "event",
+    "id": "82b351bf10aa8db8",
+    "text": "This is text in the new plugin. You can *double-click* to edit it too."
+  }
+],
+  "journal": [
+  {
+    "type": "create",
+    "item": {
+      "title": "About Event Plugin",
+      "story": [
+  {
+    "type": "paragraph",
+    "id": "d20b4474b45a979d",
+    "text": "Here we describe the purpose of the plugin and include a sample."
+  },
+  {
+    "type": "event",
+    "id": "82b351bf10aa8db8",
+    "text": "This is text in the new plugin. You can *double-click* to edit it too."
+  }
+]
+    },
+    "date": 1432819675000,
+    "certificate": "from mkplugin.sh"
+  }
+]
+}
